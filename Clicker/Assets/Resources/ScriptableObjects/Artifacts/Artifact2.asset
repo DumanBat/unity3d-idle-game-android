@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17100cb86e864c04e903238afc0b8ffa, type: 3}
+  m_Name: Artifact2
+  m_EditorClassIdentifier: 
+  artifactID: 1
+  artifactName: all x2
+  artifactDescription: all trees x2
+  artifactImage: {fileID: 0}
+  artifactType: 1
+  panelType: 0
+  multiplier: 2
+  isArtifactActive: 0
+  isAvailableToBuy: 0
+  artifactCost: 56

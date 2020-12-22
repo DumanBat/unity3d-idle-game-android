@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f1c6f9a0d873a4383893f3db42293c, type: 3}
+  m_Name: 2_Orange
+  m_EditorClassIdentifier: 
+  treeName: Orange
+  treeID: 1
+  defaultHarvestAmount: 3
+  defaultHarvestDuration: 3
+  defaultUpgradeCost: 2
+  defaultRequiredUpgradeLevelForDurationBoost: 5
+  defaultManagerCost: 3
+  unlockCost: 50
+  harvestAmount: 3
+  harvestDuration: 3
+  upgradeCost: 2
+  upgradeLevel: 1
+  isUnlocked: 0
+  upgradeMultiplier: 3
+  requiredUpgradeLevelForDurationBoost: 5
+  defaultHarvestAmountRenewed: 3
+  defaultUpgradeCostRenewed: 0
